@@ -1,0 +1,5 @@
+quote-api/node_modules
+quote-app/node_modules
+
+quote-api/serviceAccountKey.js
+quote-api/.env
